@@ -19,8 +19,6 @@
   - [Matrix](#matrix)
 - [8.0 :star:](#_80)
   - [Ghost in the shell](#ghost-in-the-shell)
-  - [Her](#her)
-  - [The Imitation Game](#the-imitation-game)
 - [7.8 :star:](#_78)
   - [The Social Network](#the-social-network)
   - [Office Space](#office-space)
@@ -42,6 +40,7 @@
 - [7.1 :star:](#_71)
   - [Sneakers](#sneakers)
   - [Artificial Intelligence: AI](#artificial-intelligence-ai)
+  - [I, Robot](#i-robot)
   - [In the Realm of the Hackers](#in-the-realm-of-the-hackers)
   - [WarGames](#wargames)
 - [7.0 :star:](#_70)
@@ -131,21 +130,13 @@
 * Country: Japan
 * [_IMDb_](http://www.imdb.com/title/tt0113568/)
 
-#### Her
-> In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
-
-![Her](assets/her.jpg)
-* Year: 2013
-* Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt1798709/)
-
 #### The Imitation Game
 > Amazing true story of Alan Turing, who tries to crack the German Enigma code with the help from fellow mathematicians during World War II.
 
 ![The_Imitation_Game](assets/the_imitation_game.jpg)
 * Year: 2014
 * Country: USA
-* [_IMDb_](https://www.imdb.com/title/tt2084970/)
+*[_IMDb_](https://www.imdb.com/title/tt2084970/)
 
 ### 7.8
 
@@ -277,6 +268,14 @@
 * Year: 2001
 * Country: USA
 * [_IMDb_](http://www.imdb.com/title/tt0212720/)
+
+#### I, Robot
+> In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+
+![I, Robot](assets/i-robot.jpg)
+* Year: 2004
+* Country: USA
+* [_IMDb_](https://www.imdb.com/title/tt0343818/)
 
 #### In the Realm of the Hackers
 > In the late 1980s two Melbourne teenage computer hackers known as Electron and Phoenix stole a restricted computer security list and used it to break into some of the world's most classified and supposedly secure computer systems. So fast and widespread was the attack no-one could work out how it had happened, until one of the hackers called the New York Times to brag about it. Ten years after their arrest, this dramatized documentary reveals not only how they did it but why, taking us headlong into the clandestine, risky but intoxicating world of the computer underground.
